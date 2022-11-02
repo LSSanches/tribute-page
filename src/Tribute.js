@@ -81,7 +81,7 @@ export default function Tribute() {
         </a>
         , open-sourced on{" "}
         <a
-          href="https://github.com/LSSanches/project"
+          href="https://github.com/LSSanches/tribute-page"
           target="_blank"
           rel="noreferrer"
         >
@@ -89,7 +89,7 @@ export default function Tribute() {
         </a>{" "}
         and hosted on{" "}
         <a
-          href="https://weatherappprojectbylaura.netlify.app/"
+          href="https://tributepagebylaura.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
