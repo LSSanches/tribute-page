@@ -32,7 +32,7 @@ export default function Tribute() {
             Coattail Riders, in which he played drums and sang, releasing three
             studio albums between 2006 and 2019. He formed the supergroup NHC
             with Jane's Addiction members Dave Navarro and Chris Chaney in 2020,
-            where he also took on lead vocal and drumming duties.[1] The band's
+            where he also took on lead vocal and drumming duties. The band's
             sole album is due for release in 2022.{" "}
           </li>
           <li>
