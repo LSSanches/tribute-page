@@ -73,7 +73,7 @@ export default function Tribute() {
       <footer>
         Created by{" "}
         <a
-          href="www.linkedin.com/in/laurassanches"
+          href="https://www.linkedin.com/in/laurassanches"
           target="_blank"
           rel="noreferrer"
         >
