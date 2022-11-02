@@ -1,0 +1,55 @@
+.container {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background: darkgrey;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: gray;
+}
+
+img {
+  max-width: 70%;
+  display: block;
+  height: auto;
+  margin: 10px auto 10px auto;
+  border-radius: 5px;
+  background: lightgray;
+  padding: 15px;
+}
+
+.img-caption {
+  margin: 0 auto;
+  font-size: 15px;
+}
+
+ul {
+  max-width: 90%;
+  margin: 0 auto;
+  line-height: 1.7;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.quotation {
+  font-style: italic;
+  max-width: 800px;
+  margin: 30px auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+footer {
+  font-size: 15px;
+}
